@@ -1,2 +1,2 @@
 print('testing')
-print(   'codeit'      )
+print('codeit')
